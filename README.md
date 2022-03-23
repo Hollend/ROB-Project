@@ -1,2 +1,2 @@
 # YoshiBot
-Discord Bot for team YF's server
+Discord Bot for my current team.
